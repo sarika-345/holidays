@@ -4,6 +4,14 @@ body{
     background-size:cover;
 }
 
+.custom-navbar{
+  background-color:rgb(147, 228, 251);
+  /* position:sticky;
+  top:100px; */
+}
+.dropdown-item{
+background-color:rgb(147, 228, 251);
+}
 h3{
     color:whitesmoke;
     margin-right: 600px;
@@ -38,7 +46,7 @@ width:100%;
 .footer{
 height:50px;
 width:100%;
-background-color:white;
+background-color:rgb(147, 228, 251);
 text-align:center;
 position:fixed;
 bottom:0;
