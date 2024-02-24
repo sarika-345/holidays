@@ -1,0 +1,53 @@
+body{
+    background-image:url('img_4.png');
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+
+h3{
+    color:whitesmoke;
+    margin-right: 600px;
+    text-align: right;
+}
+.fa-brands{
+font-size:20px;
+margin-left:10px;
+}
+.carousel-item img{
+    height:700px;
+    }
+.carousel
+{
+width:100%;
+}
+
+.carousel-caption {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      text-align: center;
+    }
+
+    .carousel-caption h5 {
+      font-size:100px; /* Adjust the font size as needed */
+    }
+
+    .carousel-caption p {
+      font-size: 1.5em; /* Adjust the font size as needed */
+    }
+.footer{
+height:50px;
+width:100%;
+background-color:white;
+text-align:center;
+position:fixed;
+bottom:0;
+left:0;
+}
+#footer{
+color:whitesmoke;
+}
+
+
+
+
