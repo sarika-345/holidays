@@ -1,10 +1,11 @@
+
 body {
-  background-image: url('img_4.png');
+  background-image: url('../Images/img_4.png');
   background-repeat: no-repeat;
   background-size: cover;
   overflow-x: hidden;
-}
 
+}
 
 .custom-navbar {
   background-color: #474762;
@@ -28,6 +29,7 @@ h3 {
   margin-right: 600px;
   text-align: right;
 }
+
 
 .fa-brands {
   font-size: 20px;
@@ -69,9 +71,6 @@ h3 {
   z-index: 2;
 }
 
-#footer {
-  color: whitesmoke;
-}
 
 .sub-navbar-icons {
   display: flex;
@@ -83,17 +82,52 @@ h3 {
   justify-content: space-between;
 }
 
-.collapse:not(.show) {
+/* .collapse:not(.show) {
   display: flex;
-}
+} */ 
 
-@media (max-width: 2000px) {
+/* @media (max-width: 2000px) {
   .navbar-expand-lg .navbar-collapse {
     display: none;
-  }
+  } */
 
-}
+/* } */
 
 .dropdown-menu {
   background-color: rgb(147, 228, 251);
 }
+
+  .card {
+    transition: transform 0.3s ease-in-out;
+    height: 450px;
+  }
+
+  .card:hover {
+    transform: scale(1.05); /* Adjust the scale factor for the desired zoom effect */
+  }
+
+  .card-img-top {
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .card:hover .card-img-top {
+    opacity: 0.8; /* Adjust the opacity level as needed */
+  }
+
+  .fs-1{
+    font-style:italic; 
+    color:gainsboro;
+  
+  }
+  .fs-2{
+    padding:15px;
+    font-style: italic;
+    color:darkslateblue;
+    font-weight:bold;
+  }
+
+
+ .card-img-top {
+   object-fit: cover;
+   height: 60%; /* Adjust the image height within the card */
+        }

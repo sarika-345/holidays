@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="390fff0b-74ab-4584-8658-59fe0a572df9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tech_project/south_india.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech_project/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/tech_project/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tech_project/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/tech_project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech_project/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/tech_project/Holiday/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech_project/img_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech_project/img_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech_project/south_india.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tech_project/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +35,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sarik\Desktop\Holidays\tech_project\Holiday" />
       <recent name="C:\Users\sarik\Desktop\Holidays\tech_project" />
     </key>
   </component>
