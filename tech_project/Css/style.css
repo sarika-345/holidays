@@ -22,7 +22,8 @@ body {
   color: deepskyblue;
 }
 .custom-navbar .navbar-nav .nav-item:hover .nav-link,
-.custom-navbar .navbar-brand:hover {
+.custom-navbar .navbar-brand:hover
+ {
     color: white !important;
 }
 
